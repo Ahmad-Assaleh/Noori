@@ -1,6 +1,5 @@
 # Noori
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 A brief, one-to-two sentence description of what this project achieves and the problem it solves.
 
 ---
